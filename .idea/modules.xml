@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Grupo-12---Turma-A.iml" filepath="$PROJECT_DIR$/.idea/Grupo-12---Turma-A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PI-JogoRPG/PI-JogoRPG.iml" filepath="$PROJECT_DIR$/PI-JogoRPG/PI-JogoRPG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PI-JogoRPG/src/PI-JogoRPG1.iml" filepath="$PROJECT_DIR$/PI-JogoRPG/src/PI-JogoRPG1.iml" />
+    </modules>
+  </component>
+</project>
